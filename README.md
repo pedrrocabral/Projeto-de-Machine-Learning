@@ -17,7 +17,7 @@ O machine learning (ML)  é uma subcategoria de inteligência artificial que 
 <img alt="Pedro-plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">&nbsp;
 <img alt="Pedro-sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">&nbsp;
 <img alt="Pedro-seabron" height="29" src="img/seaborn.png">&nbsp;
-
+<img alt="Pedro-seabron" height="29" src="img/Matplotlib.png">&nbsp;
 ## Como os Dados Estão Organizados:
 
 ## Projetos:
