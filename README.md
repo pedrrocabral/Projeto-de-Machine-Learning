@@ -1,4 +1,4 @@
-# Projeto de Machine Learning
+# Projetos de Machine Learning
 Repositório destinado a armazenamento de projetos realizados por mim na área de Machine Learning (Aprendizado de Máquina).
 
 ## 📰&nbsp;Introdução:
