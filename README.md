@@ -28,18 +28,24 @@ O machine learning (ML)  é uma subcategoria de inteligência artificial que 
 <br>
 
 ## 🗃️&nbsp;Como os Dados Estão Organizados:
-
+<br>
 Os Projeto desse Repositórios estão organizados da seguinte forma:
+<br>
 
 <img alt="Pedro-dados" src="https://github.com/pedrrocabral/Projetos-de-Machine-Learning/blob/a63d158325dab56d9d16a6543d591e1c6c8faf94/img/dados.png">&nbsp;
+<br>
 Temos uma pasta dados, os estão os arquivos .csv, .db, .txt, .xlsc, entre outros. Esses arquivos representam nossa base de dados trabalhada no modelo de Machine Learning (ML).
 
+<br>
 
 <img alt="Pedro-modelo" src="https://github.com/pedrrocabral/Projetos-de-Machine-Learning/blob/a63d158325dab56d9d16a6543d591e1c6c8faf94/img/Modelos.png">&nbsp;
+<br>
 Em seguida, temos os modelos utilizados. Na imagem acima, vemos 3 modelos, que segue um padrão meu para nomenclatura dos mesmos. M = Representa Modelo e o número em seguida o seu "id". Ex: M1 = Modelo 1. Em seguida vem o tipo de algoritmo utilizado, para facilitar a organização dos modelos.
 
+<br>
 
 <img alt="Pedro-readme" src="https://github.com/pedrrocabral/Projetos-de-Machine-Learning/blob/a63d158325dab56d9d16a6543d591e1c6c8faf94/img/Readme.png">&nbsp;
+<br>
 Por fim, um README.md para explicar sobre o projeto e tirar as conclusões a respeito dos dados obtidos através dos modelos, quais modelos tiveram melhor performance e porque, entre outros aspectos relacionados ao projeto.
 
 <br>
