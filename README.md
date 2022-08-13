@@ -58,6 +58,7 @@ Por fim, um README.md para explicar sobre o projeto e tirar as conclusões a res
     <thread>
       <th>Projetos</th><th>Links</th>
       <tr><td>Detecção de Fraude no Cartão de Crédito</td><td><a href="https://github.com/pedrrocabral/Projetos-de-Machine-Learning/tree/main/Projetos/Classifica%C3%A7%C3%A3o/Detec%C3%A7%C3%A3o_de_Fraude_no_Cart%C3%A3o_de_Cr%C3%A9dito">Link</a></td></tr>
+      <tr><td>Predição de Câncer de Mama</td><td><a href="https://github.com/pedrrocabral/Projetos-de-Machine-Learning/tree/main/Projetos/Classifica%C3%A7%C3%A3o/C%C3%A2ncer_de_Mama_Wisconsin_(Diagn%C3%B3stico)">Link</a></td></tr>
     </thread>
   </table>
 </details>
