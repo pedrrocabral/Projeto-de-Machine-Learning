@@ -1,4 +1,4 @@
-# Conjunto de Dados de Câncer de Mama Wisconsin
+# Predição de Câncer de Mama
 Fonte: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 ## Informações:
 A base de dados na qual foram criados os modelos de classificação, refere-se a conjunto de dados de câncer de mama Wisconsin, onde apresentasse Número de identificação, Diagnóstico (M = maligno, B = benigno), raio (média das distâncias do centro aos pontos no perímetro), textura (desvio padrão dos valores da escala de cinza), perímetro, área, suavidade (variação local nos comprimentos dos raios), compacidade (perímetro^2 / área - 1,0), concavidade (severidade das porções côncavas do contorno), pontos côncavos (número de porções côncavas do contorno), simetria e dimensão fractal ("aproximação da linha costeira" - 1).
